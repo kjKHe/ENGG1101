@@ -1,2 +1,5 @@
 # ENGG1101
-based on raspberry_pi
+
+this class is based on raspberry_pi
+
+I'm going to use this repo for the upcoming academic year
